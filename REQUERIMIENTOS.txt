@@ -1,0 +1,18 @@
+*Tener usuarios (Gerente, Cajero Meseros).
+*Poder imprimir cuenta de las mesas.
+*Poder poner propina sugerida y poder aplicar descuentos.
+*Al cobrar pueda aparecer la cantidad que estoy cobrando y el cambio que tengo que dar.
+*En la impresion de la cuenta salga informacion del restaurante.
+*Tener varias mesas y varias secciones de esas mesas (5 mesas en terraza, 3 mesas en piso   2, etc).
+*Poder imprimir las comandas y pedidos.
+*los pedidos poder hacerles comentarios.
+*los pedidos se imprimas separado las bebidas de los platillos.
+*Poder eliminar y Crear platillos y bebidas a boluntad y facil para el usuario.
+*Tener Turnos.
+*Tener Inicio de Caja.
+*Tener Corte de caja.
+*Tener Gastos y ingresos.
+*Los platillos y bebidas se puedan dividir en secciones (postres, concteles, cervesas, referescos, platillos, botanas.)
+*Poder hacer Paquetes de pedidos (poder escoger la bebida, platillo y postre por un precio establecido).
+*Los meseros peudan hacer pedidos por su movil asignados.
+*El cajero pueda imbrimir por su Laptop o Tableta asiganado.
